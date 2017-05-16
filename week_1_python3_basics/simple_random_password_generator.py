@@ -1,4 +1,4 @@
-# TODO Replicate the random password generator and extend to use numbers, capitals, special characters
+# random password generator using letters and numbers
 
 import random, string
 
